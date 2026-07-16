@@ -1,0 +1,27 @@
+{
+  "start_time": "2026-07-16T04:04:23.005243",
+  "end_time": "2026-07-16T04:05:50.771812",
+  "total_duration_seconds": 87.752317,
+  "old_version": "6.5.0.9120",
+  "new_version": "6.5.0.9119",
+  "build_path": "C:\\builds",
+  "overall_success": false,
+  "mandatory_success": false,
+  "tests_success": true,
+  "steps": [
+    {
+      "name": "uninstall",
+      "status": "success",
+      "message": "Скрипт выполнен",
+      "exit_code": 0,
+      "duration_seconds": 28.073505
+    },
+    {
+      "name": "download",
+      "status": "failed",
+      "message": "Ошибка (код: 1)",
+      "exit_code": 1,
+      "duration_seconds": 56.623718
+    }
+  ]
+}

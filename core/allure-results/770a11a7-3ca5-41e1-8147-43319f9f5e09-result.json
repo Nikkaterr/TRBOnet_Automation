@@ -1,0 +1,24 @@
+{
+  "uuid": "770a11a7-3ca5-41e1-8147-43319f9f5e09",
+  "name": "DOWNLOAD",
+  "status": "passed",
+  "statusDetails": {
+    "message": "✅ Тест пройден за 112.6 сек"
+  },
+  "stage": "finished",
+  "start": 1784200068161,
+  "stop": 1784200180803,
+  "duration": 112641,
+  "historyId": "770a11a7-3ca5-41e1-8147-43319f9f5e09",
+  "fullName": "DOWNLOAD",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "Оркестратор TRBOnet"
+    },
+    {
+      "name": "testClass",
+      "value": "Orchestrator"
+    }
+  ]
+}

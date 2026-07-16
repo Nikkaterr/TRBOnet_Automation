@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","61847","DISPATCH_TEST","","2026-07-16","passed","2026-07-16","","Оркестратор TRBOnet","Orchestrator",""
+"","112642","DOWNLOAD","","2026-07-16","passed","2026-07-16","","Оркестратор TRBOnet","Orchestrator",""
+"","28613","CONFIGURE","","2026-07-16","passed","2026-07-16","","Оркестратор TRBOnet","Orchestrator",""
+"","88","UNINSTALL","","2026-07-16","passed","2026-07-16","","Оркестратор TRBOnet","Orchestrator",""
+"","307462","ВСЕ ШАГИ ОРКЕСТРАТОРА","","2026-07-16","passed","2026-07-16","","Оркестратор TRBOnet","Orchestrator",""
+"","41151","ONE_TEST","","2026-07-16","passed","2026-07-16","","Оркестратор TRBOnet","Orchestrator",""
+"","45047","INSTALL","","2026-07-16","passed","2026-07-16","","Оркестратор TRBOnet","Orchestrator",""

@@ -1,0 +1,24 @@
+{
+  "uuid": "9972504e-1482-4e09-a348-3241d68f7bdd",
+  "name": "UNINSTALL",
+  "status": "passed",
+  "statusDetails": {
+    "message": "✅ Тест пройден за 0.1 сек"
+  },
+  "stage": "finished",
+  "start": 1784200065068,
+  "stop": 1784200065156,
+  "duration": 88,
+  "historyId": "9972504e-1482-4e09-a348-3241d68f7bdd",
+  "fullName": "UNINSTALL",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "Оркестратор TRBOnet"
+    },
+    {
+      "name": "testClass",
+      "value": "Orchestrator"
+    }
+  ]
+}
