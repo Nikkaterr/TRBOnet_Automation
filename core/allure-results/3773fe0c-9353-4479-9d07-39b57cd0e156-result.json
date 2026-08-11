@@ -1,0 +1,24 @@
+{
+  "uuid": "3773fe0c-9353-4479-9d07-39b57cd0e156",
+  "name": "CONFIGURE",
+  "status": "passed",
+  "statusDetails": {
+    "message": "✅ Тест пройден за 29.0 сек"
+  },
+  "stage": "finished",
+  "start": 1784538804890,
+  "stop": 1784538833856,
+  "duration": 28966,
+  "historyId": "3773fe0c-9353-4479-9d07-39b57cd0e156",
+  "fullName": "CONFIGURE",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "Оркестратор TRBOnet"
+    },
+    {
+      "name": "testClass",
+      "value": "Orchestrator"
+    }
+  ]
+}

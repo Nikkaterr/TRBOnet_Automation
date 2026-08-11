@@ -1,0 +1,55 @@
+{
+  "start_time": "2026-07-20T02:09:54.395009",
+  "end_time": "2026-07-20T02:15:48.073862",
+  "total_duration_seconds": 353.65952,
+  "old_version": "6.5.0.9118",
+  "new_version": "6.5.0.9141",
+  "build_path": "C:\\builds",
+  "overall_success": true,
+  "mandatory_success": true,
+  "tests_success": true,
+  "steps": [
+    {
+      "name": "uninstall",
+      "status": "success",
+      "message": "Скрипт выполнен",
+      "exit_code": 0,
+      "duration_seconds": 34.094946
+    },
+    {
+      "name": "download",
+      "status": "success",
+      "message": "Скрипт выполнен",
+      "exit_code": 0,
+      "duration_seconds": 119.481521
+    },
+    {
+      "name": "install",
+      "status": "success",
+      "message": "Скрипт выполнен",
+      "exit_code": 0,
+      "duration_seconds": 47.868032
+    },
+    {
+      "name": "configure",
+      "status": "success",
+      "message": "Скрипт выполнен",
+      "exit_code": 0,
+      "duration_seconds": 28.966175
+    },
+    {
+      "name": "dispatch_test",
+      "status": "success",
+      "message": "Скрипт выполнен",
+      "exit_code": 0,
+      "duration_seconds": 61.279846
+    },
+    {
+      "name": "one_test",
+      "status": "success",
+      "message": "Скрипт выполнен",
+      "exit_code": 0,
+      "duration_seconds": 43.897791
+    }
+  ]
+}

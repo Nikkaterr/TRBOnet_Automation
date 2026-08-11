@@ -1,0 +1,24 @@
+{
+  "uuid": "3432db4f-f33c-42fc-8525-3e1e8836e2d3",
+  "name": "INSTALL",
+  "status": "passed",
+  "statusDetails": {
+    "message": "✅ Тест пройден за 47.9 сек"
+  },
+  "stage": "finished",
+  "start": 1784538754017,
+  "stop": 1784538801885,
+  "duration": 47868,
+  "historyId": "3432db4f-f33c-42fc-8525-3e1e8836e2d3",
+  "fullName": "INSTALL",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "Оркестратор TRBOnet"
+    },
+    {
+      "name": "testClass",
+      "value": "Orchestrator"
+    }
+  ]
+}

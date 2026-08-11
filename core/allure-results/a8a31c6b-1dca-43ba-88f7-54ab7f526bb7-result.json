@@ -1,0 +1,24 @@
+{
+  "uuid": "a8a31c6b-1dca-43ba-88f7-54ab7f526bb7",
+  "name": "DOWNLOAD",
+  "status": "passed",
+  "statusDetails": {
+    "message": "✅ Тест пройден за 119.5 сек"
+  },
+  "stage": "finished",
+  "start": 1784538631528,
+  "stop": 1784538751009,
+  "duration": 119481,
+  "historyId": "a8a31c6b-1dca-43ba-88f7-54ab7f526bb7",
+  "fullName": "DOWNLOAD",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "Оркестратор TRBOnet"
+    },
+    {
+      "name": "testClass",
+      "value": "Orchestrator"
+    }
+  ]
+}

@@ -1,0 +1,2033 @@
+{
+  "total": 338,
+  "elements": [
+    {
+      "automation_id": "1115310",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane"
+    },
+    {
+      "automation_id": "1312022",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane"
+    },
+    {
+      "automation_id": "133330",
+      "control_type": "Edit",
+      "name": "5",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 5 > 5"
+    },
+    {
+      "automation_id": "133382",
+      "control_type": "Edit",
+      "name": "5",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 5 > 5"
+    },
+    {
+      "automation_id": "133386",
+      "control_type": "Edit",
+      "name": "1440",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 1440 > 1440"
+    },
+    {
+      "automation_id": "1640568",
+      "control_type": "Edit",
+      "name": "S0343\\SQLEXPRESS",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > S0343\\SQLEXPRESS > S0343\\SQLEXPRESS"
+    },
+    {
+      "automation_id": "1837094",
+      "control_type": "Edit",
+      "name": "sa",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > sa > sa"
+    },
+    {
+      "automation_id": "1967024",
+      "control_type": "Edit",
+      "name": "4013",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4013 > 4013"
+    },
+    {
+      "automation_id": "2360850",
+      "control_type": "Edit",
+      "name": "PasswordTextEdit",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > PasswordTextEdit > PasswordTextEdit"
+    },
+    {
+      "automation_id": "2687840",
+      "control_type": "Edit",
+      "name": "Default",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Default > Default"
+    },
+    {
+      "automation_id": "2949936",
+      "control_type": "Edit",
+      "name": "PoC Gateway #1",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > PoC Gateway #1 > PoC Gateway #1"
+    },
+    {
+      "automation_id": "4457610",
+      "control_type": "Edit",
+      "name": "TRBONET_6.5.0.9141",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > TRBONET_6.5.0.9141 > TRBONET_6.5.0.9141"
+    },
+    {
+      "automation_id": "526302",
+      "control_type": "Edit",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Edit > Edit"
+    },
+    {
+      "automation_id": "5769318",
+      "control_type": "Edit",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Edit > Edit"
+    },
+    {
+      "automation_id": "590730",
+      "control_type": "Edit",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Edit > Edit"
+    },
+    {
+      "automation_id": "6686786",
+      "control_type": "Edit",
+      "name": "Local Interface:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Local Interface: > Local Interface:"
+    },
+    {
+      "automation_id": "67908",
+      "control_type": "Edit",
+      "name": "4015",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4015 > 4015"
+    },
+    {
+      "automation_id": "67920",
+      "control_type": "Edit",
+      "name": "4017",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4017 > 4017"
+    },
+    {
+      "automation_id": "67934",
+      "control_type": "Edit",
+      "name": "Network interface:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Network interface: > Network interface:"
+    },
+    {
+      "automation_id": "67952",
+      "control_type": "Edit",
+      "name": "4022",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4022 > 4022"
+    },
+    {
+      "automation_id": "67960",
+      "control_type": "Edit",
+      "name": "4021",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4021 > 4021"
+    },
+    {
+      "automation_id": "68040",
+      "control_type": "Edit",
+      "name": "30",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 30 > 30"
+    },
+    {
+      "automation_id": "68044",
+      "control_type": "Edit",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Edit > Edit"
+    },
+    {
+      "automation_id": "68054",
+      "control_type": "Edit",
+      "name": "10",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 10 > 10"
+    },
+    {
+      "automation_id": "68110",
+      "control_type": "Edit",
+      "name": "225",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 225 > 225"
+    },
+    {
+      "automation_id": "68116",
+      "control_type": "Edit",
+      "name": "12",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 12 > 12"
+    },
+    {
+      "automation_id": "68186",
+      "control_type": "Edit",
+      "name": "4104",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 4104 > 4104"
+    },
+    {
+      "automation_id": "68276",
+      "control_type": "Edit",
+      "name": "5016",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 5016 > 5016"
+    },
+    {
+      "automation_id": "68282",
+      "control_type": "Edit",
+      "name": "4007",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4007 > 4007"
+    },
+    {
+      "automation_id": "68292",
+      "control_type": "Edit",
+      "name": "4008",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4008 > 4008"
+    },
+    {
+      "automation_id": "68300",
+      "control_type": "Edit",
+      "name": "4005",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4005 > 4005"
+    },
+    {
+      "automation_id": "853386",
+      "control_type": "Edit",
+      "name": "4106",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 4106 > 4106"
+    },
+    {
+      "automation_id": "9373876",
+      "control_type": "Edit",
+      "name": "5070",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 5070 > 5070"
+    },
+    {
+      "automation_id": "ConfigControlAdvanced",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlController",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlDataSources",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlDatabase",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlExternServers",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlLicense",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlMobile",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlNetwork",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlRadio",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlRecording",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlRedundancy",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlReports",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlServices",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlSip",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlSipInternal",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlSms",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlSrvService",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlStorage",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlTeltonika",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigControlWinService",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane"
+    },
+    {
+      "automation_id": "ConfigurationWizard",
+      "control_type": "Window",
+      "name": "TRBOnet Enterprise 6.5 / Server",
+      "path": " > TRBOnet Enterprise 6.5 / Server"
+    },
+    {
+      "automation_id": "DownButton",
+      "control_type": "Button",
+      "name": "Line down",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlTree > Tree > Vertical > Line down"
+    },
+    {
+      "automation_id": "DownButton",
+      "control_type": "Button",
+      "name": "Line down",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Vertical > Line down"
+    },
+    {
+      "automation_id": "DownPageButton",
+      "control_type": "Button",
+      "name": "Page down",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlTree > Tree > Vertical > Page down"
+    },
+    {
+      "automation_id": "DownPageButton",
+      "control_type": "Button",
+      "name": "Page down",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Vertical > Page down"
+    },
+    {
+      "automation_id": "MenuBar",
+      "control_type": "MenuBar",
+      "name": "System",
+      "path": " > TRBOnet Enterprise 6.5 / Server > TitleBar > System"
+    },
+    {
+      "automation_id": "NonClientVerticalScrollBar",
+      "control_type": "ScrollBar",
+      "name": "Vertical",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlTree > Tree > Vertical"
+    },
+    {
+      "automation_id": "NonClientVerticalScrollBar",
+      "control_type": "ScrollBar",
+      "name": "Vertical",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Vertical"
+    },
+    {
+      "automation_id": "ScrollbarThumb",
+      "control_type": "Thumb",
+      "name": "Position",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlTree > Tree > Vertical > Position"
+    },
+    {
+      "automation_id": "ScrollbarThumb",
+      "control_type": "Thumb",
+      "name": "Position",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Vertical > Position"
+    },
+    {
+      "automation_id": "UpButton",
+      "control_type": "Button",
+      "name": "Line up",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlTree > Tree > Vertical > Line up"
+    },
+    {
+      "automation_id": "UpButton",
+      "control_type": "Button",
+      "name": "Line up",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Vertical > Line up"
+    },
+    {
+      "automation_id": "m_boxArsActiveTimeout",
+      "control_type": "Edit",
+      "name": "5",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 5"
+    },
+    {
+      "automation_id": "m_boxArsPassiveTimeout",
+      "control_type": "Edit",
+      "name": "1440",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 1440"
+    },
+    {
+      "automation_id": "m_boxArsPort",
+      "control_type": "Edit",
+      "name": "4005",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4005"
+    },
+    {
+      "automation_id": "m_boxAttachmentPath",
+      "control_type": "Edit",
+      "name": "C:\\ProgramData\\Neocom Software\\TRBOnet.Enterprise\\Files",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > C:\\ProgramData\\Neocom Software\\TRBOnet.Enterprise\\Files"
+    },
+    {
+      "automation_id": "m_boxAudioPath",
+      "control_type": "Edit",
+      "name": "C:\\ProgramData\\Neocom Software\\TRBOnet.Enterprise\\Audio",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Audio and video recordings > C:\\ProgramData\\Neocom Software\\TRBOnet.Enterprise\\Audio"
+    },
+    {
+      "automation_id": "m_boxAudioProtocol",
+      "control_type": "ComboBox",
+      "name": "UDP",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > UDP"
+    },
+    {
+      "automation_id": "m_boxAuthorization",
+      "control_type": "ComboBox",
+      "name": "SQL Server",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > SQL Server"
+    },
+    {
+      "automation_id": "m_boxBackupPath",
+      "control_type": "Edit",
+      "name": "C:\\ProgramData\\Neocom Software\\TRBOnet.Enterprise\\Backups",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > C:\\ProgramData\\Neocom Software\\TRBOnet.Enterprise\\Backups"
+    },
+    {
+      "automation_id": "m_boxBeaconPort",
+      "control_type": "Edit",
+      "name": "3022",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 3022"
+    },
+    {
+      "automation_id": "m_boxCertificate",
+      "control_type": "Pane",
+      "name": "Server Certificate:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Server Certificate:"
+    },
+    {
+      "automation_id": "m_boxCertificate",
+      "control_type": "Edit",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Server Certificate: > Edit"
+    },
+    {
+      "automation_id": "m_boxConfigPassword",
+      "control_type": "Edit",
+      "name": "PasswordTextEdit",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Save changes and restart service > PasswordTextEdit"
+    },
+    {
+      "automation_id": "m_boxDataProtocol",
+      "control_type": "ComboBox",
+      "name": "UDP",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > UDP"
+    },
+    {
+      "automation_id": "m_boxDatabase",
+      "control_type": "ComboBox",
+      "name": "TRBONET_6.5.0.9141",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > TRBONET_6.5.0.9141"
+    },
+    {
+      "automation_id": "m_boxExtDataPort",
+      "control_type": "Edit",
+      "name": "4106",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 4106"
+    },
+    {
+      "automation_id": "m_boxExtTmsPort",
+      "control_type": "Edit",
+      "name": "4010",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 4010"
+    },
+    {
+      "automation_id": "m_boxFileNameTemplate",
+      "control_type": "Edit",
+      "name": "%YEAR%_%MONTH%_%DAY%_%HOUR%\\%MINUTE%_%SECOND%_%MILLISECOND%",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Audio and video recordings > %YEAR%_%MONTH%_%DAY%_%HOUR%\\%MINUTE%_%SECOND%_%MILLISECOND%"
+    },
+    {
+      "automation_id": "m_boxForwardDataPort",
+      "control_type": "Edit",
+      "name": "4011",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 4011"
+    },
+    {
+      "automation_id": "m_boxFriendlyPort",
+      "control_type": "Edit",
+      "name": "4004",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 4004"
+    },
+    {
+      "automation_id": "m_boxG4SPort",
+      "control_type": "Edit",
+      "name": "4004",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 4004"
+    },
+    {
+      "automation_id": "m_boxGpsNotifyTimeout",
+      "control_type": "Edit",
+      "name": "5",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 5"
+    },
+    {
+      "automation_id": "m_boxGpsPort",
+      "control_type": "Edit",
+      "name": "4001",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4001"
+    },
+    {
+      "automation_id": "m_boxGroupId",
+      "control_type": "Edit",
+      "name": "225",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 225"
+    },
+    {
+      "automation_id": "m_boxHealthPort",
+      "control_type": "Edit",
+      "name": "4017",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4017"
+    },
+    {
+      "automation_id": "m_boxJtsPort",
+      "control_type": "Edit",
+      "name": "4013",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4013"
+    },
+    {
+      "automation_id": "m_boxLanBeaconPort",
+      "control_type": "Edit",
+      "name": "3001",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 3001"
+    },
+    {
+      "automation_id": "m_boxLipPort",
+      "control_type": "Edit",
+      "name": "5017",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 5017"
+    },
+    {
+      "automation_id": "m_boxLocalIP",
+      "control_type": "ComboBox",
+      "name": "Local Interface:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Local Interface:"
+    },
+    {
+      "automation_id": "m_boxLocalIP",
+      "control_type": "ComboBox",
+      "name": "Local Interface:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Local Interface:"
+    },
+    {
+      "automation_id": "m_boxLocalPort",
+      "control_type": "Edit",
+      "name": "5070",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 5070"
+    },
+    {
+      "automation_id": "m_boxLocalPort",
+      "control_type": "Edit",
+      "name": "5000",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 5000"
+    },
+    {
+      "automation_id": "m_boxLogin",
+      "control_type": "Edit",
+      "name": "sa",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > sa"
+    },
+    {
+      "automation_id": "m_boxMaxCallTime",
+      "control_type": "Edit",
+      "name": "10",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 10"
+    },
+    {
+      "automation_id": "m_boxMaxInitTime",
+      "control_type": "Edit",
+      "name": "30",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 30"
+    },
+    {
+      "automation_id": "m_boxName",
+      "control_type": "Edit",
+      "name": "PoC Gateway #1",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > PoC Gateway #1"
+    },
+    {
+      "automation_id": "m_boxNetworkId",
+      "control_type": "Edit",
+      "name": "12",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 12"
+    },
+    {
+      "automation_id": "m_boxNovoxEventPort",
+      "control_type": "Edit",
+      "name": "8091",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 8091"
+    },
+    {
+      "automation_id": "m_boxNovoxRequestPort",
+      "control_type": "Edit",
+      "name": "8090",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 8090"
+    },
+    {
+      "automation_id": "m_boxPass",
+      "control_type": "Edit",
+      "name": "PasswordTextEdit",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Pane > PasswordTextEdit"
+    },
+    {
+      "automation_id": "m_boxPassword",
+      "control_type": "Edit",
+      "name": "PasswordTextEdit",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > PasswordTextEdit"
+    },
+    {
+      "automation_id": "m_boxPhoneLocationType",
+      "control_type": "ComboBox",
+      "name": "None",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > None"
+    },
+    {
+      "automation_id": "m_boxPort",
+      "control_type": "Edit",
+      "name": "4021",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4021"
+    },
+    {
+      "automation_id": "m_boxPortVoice",
+      "control_type": "Edit",
+      "name": "4022",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4022"
+    },
+    {
+      "automation_id": "m_boxPublicAddress",
+      "control_type": "Edit",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Edit"
+    },
+    {
+      "automation_id": "m_boxPublicAddress",
+      "control_type": "Edit",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Edit"
+    },
+    {
+      "automation_id": "m_boxRtspPort",
+      "control_type": "Edit",
+      "name": "4015",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4015"
+    },
+    {
+      "automation_id": "m_boxScheduledReportSavePath",
+      "control_type": "Edit",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Edit"
+    },
+    {
+      "automation_id": "m_boxScheduledReportSaveType",
+      "control_type": "ComboBox",
+      "name": "PDF",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > PDF"
+    },
+    {
+      "automation_id": "m_boxSendGpsAlarmByTime",
+      "control_type": "Edit",
+      "name": "10",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > 10"
+    },
+    {
+      "automation_id": "m_boxSendGpsAlarmQuantity",
+      "control_type": "Edit",
+      "name": "10",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > 10"
+    },
+    {
+      "automation_id": "m_boxServer",
+      "control_type": "ComboBox",
+      "name": "S0343\\SQLEXPRESS",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > S0343\\SQLEXPRESS"
+    },
+    {
+      "automation_id": "m_boxServerMode",
+      "control_type": "ComboBox",
+      "name": "Standalone\r\nSingle server operating independently",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Standalone\r\nSingle server operating independently"
+    },
+    {
+      "automation_id": "m_boxSiteName",
+      "control_type": "Edit",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Edit"
+    },
+    {
+      "automation_id": "m_boxSpriteListenPort",
+      "control_type": "Edit",
+      "name": "4004",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 4004"
+    },
+    {
+      "automation_id": "m_boxStartPort",
+      "control_type": "Edit",
+      "name": "Default",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Default"
+    },
+    {
+      "automation_id": "m_boxState",
+      "control_type": "Text",
+      "name": "Service started",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Service started"
+    },
+    {
+      "automation_id": "m_boxStoreAudioCodec",
+      "control_type": "ComboBox",
+      "name": "G.711 A-Law/8000",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > G.711 A-Law/8000"
+    },
+    {
+      "automation_id": "m_boxStoreAudioFile",
+      "control_type": "ComboBox",
+      "name": "WAV - Waveform Audio File",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > WAV - Waveform Audio File"
+    },
+    {
+      "automation_id": "m_boxStoreVideoFile",
+      "control_type": "ComboBox",
+      "name": "Enabled",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Enabled"
+    },
+    {
+      "automation_id": "m_boxSwiftV1Port",
+      "control_type": "Edit",
+      "name": "4004",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 4004"
+    },
+    {
+      "automation_id": "m_boxSwiftV2Port",
+      "control_type": "Edit",
+      "name": "4104",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 4104"
+    },
+    {
+      "automation_id": "m_boxTlmPort",
+      "control_type": "Edit",
+      "name": "4008",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4008"
+    },
+    {
+      "automation_id": "m_boxTmsDmrPort",
+      "control_type": "Edit",
+      "name": "5016",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 5016"
+    },
+    {
+      "automation_id": "m_boxTmsPort",
+      "control_type": "Edit",
+      "name": "4007",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 4007"
+    },
+    {
+      "automation_id": "m_boxUser",
+      "control_type": "Edit",
+      "name": "VM-AutoTest\\QA_Admin",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Pane > VM-AutoTest\\QA_Admin"
+    },
+    {
+      "automation_id": "m_boxVideoPath",
+      "control_type": "Edit",
+      "name": "C:\\ProgramData\\Neocom Software\\TRBOnet.Enterprise\\Audio",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Audio and video recordings > C:\\ProgramData\\Neocom Software\\TRBOnet.Enterprise\\Audio"
+    },
+    {
+      "automation_id": "m_boxVideoVoice",
+      "control_type": "Group",
+      "name": "Audio and video recordings",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Audio and video recordings"
+    },
+    {
+      "automation_id": "m_boxVoiceBroadcastPort",
+      "control_type": "Edit",
+      "name": "5000",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > 5000"
+    },
+    {
+      "automation_id": "m_boxVoiceInterface",
+      "control_type": "ComboBox",
+      "name": "Network interface:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Network interface:"
+    },
+    {
+      "automation_id": "m_boxZebraBluetoothPort",
+      "control_type": "Edit",
+      "name": "4072",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > 4072"
+    },
+    {
+      "automation_id": "m_btnAction",
+      "control_type": "Text",
+      "name": "Stop service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Stop service"
+    },
+    {
+      "automation_id": "m_btnAdd",
+      "control_type": "Button",
+      "name": "Add",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Add"
+    },
+    {
+      "automation_id": "m_btnAdd",
+      "control_type": "Button",
+      "name": "Add",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Add"
+    },
+    {
+      "automation_id": "m_btnAdd",
+      "control_type": "Button",
+      "name": "Add",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Add"
+    },
+    {
+      "automation_id": "m_btnApply",
+      "control_type": "Button",
+      "name": "Apply",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Apply"
+    },
+    {
+      "automation_id": "m_btnCancel",
+      "control_type": "Button",
+      "name": "Cancel",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Cancel"
+    },
+    {
+      "automation_id": "m_btnClear",
+      "control_type": "Button",
+      "name": "Default",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Default"
+    },
+    {
+      "automation_id": "m_btnCreate",
+      "control_type": "Button",
+      "name": "Create Database",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Create Database"
+    },
+    {
+      "automation_id": "m_btnDefaults",
+      "control_type": "Button",
+      "name": "Set Defaults",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Set Defaults"
+    },
+    {
+      "automation_id": "m_btnDel",
+      "control_type": "Button",
+      "name": "Delete",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Delete"
+    },
+    {
+      "automation_id": "m_btnDelete",
+      "control_type": "Button",
+      "name": "Delete",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Delete"
+    },
+    {
+      "automation_id": "m_btnDelete",
+      "control_type": "Button",
+      "name": "Delete",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Delete"
+    },
+    {
+      "automation_id": "m_btnDnReserve",
+      "control_type": "Button",
+      "name": "▼",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > ▼"
+    },
+    {
+      "automation_id": "m_btnInstall",
+      "control_type": "Button",
+      "name": "Install Service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Install Service"
+    },
+    {
+      "automation_id": "m_btnOk",
+      "control_type": "Button",
+      "name": "OK",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > OK"
+    },
+    {
+      "automation_id": "m_btnSelect",
+      "control_type": "Button",
+      "name": "Select...",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Select..."
+    },
+    {
+      "automation_id": "m_btnTest",
+      "control_type": "Button",
+      "name": "Test Connection",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Test Connection"
+    },
+    {
+      "automation_id": "m_btnTest",
+      "control_type": "Button",
+      "name": "Test",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Test"
+    },
+    {
+      "automation_id": "m_btnTest",
+      "control_type": "Button",
+      "name": "Test",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Test"
+    },
+    {
+      "automation_id": "m_btnUninstall",
+      "control_type": "Button",
+      "name": "Uninstall Service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Uninstall Service"
+    },
+    {
+      "automation_id": "m_btnUpReserve",
+      "control_type": "Button",
+      "name": "▲",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > ▲"
+    },
+    {
+      "automation_id": "m_btnUpdate",
+      "control_type": "Button",
+      "name": "Upgrade Database",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Upgrade Database"
+    },
+    {
+      "automation_id": "m_chkArs",
+      "control_type": "CheckBox",
+      "name": "Automatic Registration service (ARS)",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Automatic Registration service (ARS)"
+    },
+    {
+      "automation_id": "m_chkArsRssi",
+      "control_type": "CheckBox",
+      "name": "RSSI",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > RSSI"
+    },
+    {
+      "automation_id": "m_chkBeacon",
+      "control_type": "CheckBox",
+      "name": "Indoor service (K-TERM)",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Indoor service (K-TERM)"
+    },
+    {
+      "automation_id": "m_chkEncryptData",
+      "control_type": "CheckBox",
+      "name": "Encrypt data traffic between server and clients",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Encrypt data traffic between server and clients"
+    },
+    {
+      "automation_id": "m_chkExtData",
+      "control_type": "CheckBox",
+      "name": "Extended Data service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Extended Data service"
+    },
+    {
+      "automation_id": "m_chkExtTms",
+      "control_type": "CheckBox",
+      "name": "Extended Text Messaging service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Extended Text Messaging service"
+    },
+    {
+      "automation_id": "m_chkForwardData",
+      "control_type": "CheckBox",
+      "name": "Forward Data service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Forward Data service"
+    },
+    {
+      "automation_id": "m_chkFriendly",
+      "control_type": "CheckBox",
+      "name": "FS 5000 location service (GPS)",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > FS 5000 location service (GPS)"
+    },
+    {
+      "automation_id": "m_chkG4S",
+      "control_type": "CheckBox",
+      "name": "G4S RS232 service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > G4S RS232 service"
+    },
+    {
+      "automation_id": "m_chkGps",
+      "control_type": "CheckBox",
+      "name": "Location service (LRRP / Indoor)",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Location service (LRRP / Indoor)"
+    },
+    {
+      "automation_id": "m_chkIgnoreAlarmBeacon",
+      "control_type": "CheckBox",
+      "name": "Don't use beacon location if radio in alarm has GPS fix (K-TERM only)",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Don't use beacon location if radio in alarm has GPS fix (K-TERM only)"
+    },
+    {
+      "automation_id": "m_chkIgnoreUnregisteredRadio",
+      "control_type": "CheckBox",
+      "name": "Ignore unregistered Radios",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Ignore unregistered Radios"
+    },
+    {
+      "automation_id": "m_chkJts",
+      "control_type": "CheckBox",
+      "name": "Job Ticketing service (JTS)",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Job Ticketing service (JTS)"
+    },
+    {
+      "automation_id": "m_chkLanBeacon",
+      "control_type": "CheckBox",
+      "name": "Indoor LAN Service (K-TERM)",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Indoor LAN Service (K-TERM)"
+    },
+    {
+      "automation_id": "m_chkLip",
+      "control_type": "CheckBox",
+      "name": "Location service (LIP / Indoor)",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Location service (LIP / Indoor)"
+    },
+    {
+      "automation_id": "m_chkLogonSystem",
+      "control_type": "RadioButton",
+      "name": "Logon as Local System (Recommended)",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Logon as Local System (Recommended)"
+    },
+    {
+      "automation_id": "m_chkLogonUser",
+      "control_type": "RadioButton",
+      "name": "Logon as User",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Logon as User"
+    },
+    {
+      "automation_id": "m_chkNovox",
+      "control_type": "CheckBox",
+      "name": "Telemetry service Novox",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Telemetry service Novox"
+    },
+    {
+      "automation_id": "m_chkRecordVideoWithAudio",
+      "control_type": "CheckBox",
+      "name": "Add audio to video",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Add audio to video"
+    },
+    {
+      "automation_id": "m_chkRemoveRadioFromBeaconAfterTurningOff",
+      "control_type": "CheckBox",
+      "name": "Remove offline radio from beacon",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Remove offline radio from beacon"
+    },
+    {
+      "automation_id": "m_chkSaveScheduledReports",
+      "control_type": "CheckBox",
+      "name": "Save scheduled reports",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Save scheduled reports"
+    },
+    {
+      "automation_id": "m_chkSendGPSAlarmToDispatchers",
+      "control_type": "CheckBox",
+      "name": "Send last known locations of radios in alarm",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Send last known locations of radios in alarm"
+    },
+    {
+      "automation_id": "m_chkSprite",
+      "control_type": "CheckBox",
+      "name": "Tallysman Sprite service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Tallysman Sprite service"
+    },
+    {
+      "automation_id": "m_chkSwiftV1",
+      "control_type": "CheckBox",
+      "name": "Swift.Tracker v.1 service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Swift.Tracker v.1 service"
+    },
+    {
+      "automation_id": "m_chkSwiftV2",
+      "control_type": "CheckBox",
+      "name": "Swift.Tracker v.2 service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Swift.Tracker v.2 service"
+    },
+    {
+      "automation_id": "m_chkTlm",
+      "control_type": "CheckBox",
+      "name": "Telemetry service (TLM)",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Telemetry service (TLM)"
+    },
+    {
+      "automation_id": "m_chkTms",
+      "control_type": "CheckBox",
+      "name": "Text Messages service (TMS)",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Text Messages service (TMS)"
+    },
+    {
+      "automation_id": "m_chkTmsDmr",
+      "control_type": "CheckBox",
+      "name": "Text Messages service DMR",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Text Messages service DMR"
+    },
+    {
+      "automation_id": "m_chkUse",
+      "control_type": "CheckBox",
+      "name": "Enable Teltonika service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Enable Teltonika service"
+    },
+    {
+      "automation_id": "m_chkUseConfigDataSources",
+      "control_type": "CheckBox",
+      "name": "Enable Data Sources",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Enable Data Sources"
+    },
+    {
+      "automation_id": "m_chkUseConfigSms",
+      "control_type": "CheckBox",
+      "name": "Enable SMS Service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Enable SMS Service"
+    },
+    {
+      "automation_id": "m_chkUseEncryption",
+      "control_type": "CheckBox",
+      "name": "Enable encryption",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Enable encryption"
+    },
+    {
+      "automation_id": "m_chkUseMobile",
+      "control_type": "CheckBox",
+      "name": "Enable PoC service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Enable PoC service"
+    },
+    {
+      "automation_id": "m_chkUseMototrbo",
+      "control_type": "CheckBox",
+      "name": "Enable Radio Systems",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Enable Radio Systems"
+    },
+    {
+      "automation_id": "m_chkUseProxy",
+      "control_type": "CheckBox",
+      "name": "Use proxy server",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Use proxy server"
+    },
+    {
+      "automation_id": "m_chkUseSip",
+      "control_type": "CheckBox",
+      "name": "Use Internal PBX Server",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Use Internal PBX Server"
+    },
+    {
+      "automation_id": "m_chkUsed",
+      "control_type": "CheckBox",
+      "name": "Use restricted access",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Use restricted access"
+    },
+    {
+      "automation_id": "m_chkVideoAddMarquee",
+      "control_type": "CheckBox",
+      "name": "Add text to video",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Add text to video"
+    },
+    {
+      "automation_id": "m_chkVoiceBroadcastMode",
+      "control_type": "CheckBox",
+      "name": "Use broadcast mode for audio",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Use broadcast mode for audio"
+    },
+    {
+      "automation_id": "m_chkZebraBluetooth",
+      "control_type": "CheckBox",
+      "name": "Zebra printer service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Zebra printer service"
+    },
+    {
+      "automation_id": "m_ctrlLicense",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_grid",
+      "control_type": "Table",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Table"
+    },
+    {
+      "automation_id": "m_grid",
+      "control_type": "Table",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Table"
+    },
+    {
+      "automation_id": "m_grid",
+      "control_type": "Table",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Table"
+    },
+    {
+      "automation_id": "m_lblArs",
+      "control_type": "Text",
+      "name": "Presence service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Presence service"
+    },
+    {
+      "automation_id": "m_lblArsActiveTimeout",
+      "control_type": "Text",
+      "name": "Auto request presence timeout:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Auto request presence timeout:"
+    },
+    {
+      "automation_id": "m_lblArsActiveTimeoutUnit",
+      "control_type": "Text",
+      "name": "minutes",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > minutes"
+    },
+    {
+      "automation_id": "m_lblArsPassiveTimeout",
+      "control_type": "Text",
+      "name": "ARS refresh interval:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > ARS refresh interval:"
+    },
+    {
+      "automation_id": "m_lblArsPassiveTimeoutUnit",
+      "control_type": "Text",
+      "name": "minutes",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > minutes"
+    },
+    {
+      "automation_id": "m_lblArsPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblAttachments1",
+      "control_type": "Text",
+      "name": "Message attachments",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Message attachments"
+    },
+    {
+      "automation_id": "m_lblAudio1",
+      "control_type": "Text",
+      "name": "Voice recordings",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Audio and video recordings > Voice recordings"
+    },
+    {
+      "automation_id": "m_lblAudioProtocol",
+      "control_type": "Text",
+      "name": "VoIP protocol:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > VoIP protocol:"
+    },
+    {
+      "automation_id": "m_lblAuthorization",
+      "control_type": "Text",
+      "name": "Authentication:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Authentication:"
+    },
+    {
+      "automation_id": "m_lblBackup1",
+      "control_type": "Text",
+      "name": "Database backups",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Database backups"
+    },
+    {
+      "automation_id": "m_lblBeaconPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblBeacons",
+      "control_type": "Text",
+      "name": "Indoor service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Indoor service"
+    },
+    {
+      "automation_id": "m_lblCertificate",
+      "control_type": "Text",
+      "name": "Server Certificate:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Server Certificate:"
+    },
+    {
+      "automation_id": "m_lblConfigPassword",
+      "control_type": "Text",
+      "name": "Server password:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Save changes and restart service > Server password:"
+    },
+    {
+      "automation_id": "m_lblDataProtocol",
+      "control_type": "Text",
+      "name": "Data protocol:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Data protocol:"
+    },
+    {
+      "automation_id": "m_lblDatabase",
+      "control_type": "Text",
+      "name": "Database:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Database:"
+    },
+    {
+      "automation_id": "m_lblExtDataPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblExtTmsPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblFileTemplate1",
+      "control_type": "Text",
+      "name": "Folder and file name template",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Audio and video recordings > Folder and file name template"
+    },
+    {
+      "automation_id": "m_lblForwardDataPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblFriendlyPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblG4SPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblGps",
+      "control_type": "Text",
+      "name": "Location service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Location service"
+    },
+    {
+      "automation_id": "m_lblGpsNotifyTimeout",
+      "control_type": "Text",
+      "name": "Dispatch Console update interval:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Dispatch Console update interval:"
+    },
+    {
+      "automation_id": "m_lblGpsNotifyTimeoutUnit",
+      "control_type": "Text",
+      "name": "seconds",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > seconds"
+    },
+    {
+      "automation_id": "m_lblGpsPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblGroupId",
+      "control_type": "Text",
+      "name": "CAI Group Network:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > CAI Group Network:"
+    },
+    {
+      "automation_id": "m_lblHealthPortServer",
+      "control_type": "Text",
+      "name": "Watch PM port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Watch PM port:"
+    },
+    {
+      "automation_id": "m_lblInfo",
+      "control_type": "Text",
+      "name": "Select save locations for different file types",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Select save locations for different file types"
+    },
+    {
+      "automation_id": "m_lblInstallTitle",
+      "control_type": "Text",
+      "name": "TRBOnet Server service is installed",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > TRBOnet Server service is installed"
+    },
+    {
+      "automation_id": "m_lblJtsPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblLanBeaconPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblLine",
+      "control_type": "Text",
+      "name": "Turn off password",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Save changes and restart service > Turn off password"
+    },
+    {
+      "automation_id": "m_lblLipPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblLocalIP",
+      "control_type": "Text",
+      "name": "Local Interface:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Local Interface:"
+    },
+    {
+      "automation_id": "m_lblLocalIP",
+      "control_type": "Text",
+      "name": "Local Interface:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Local Interface:"
+    },
+    {
+      "automation_id": "m_lblLocalPort",
+      "control_type": "Text",
+      "name": "Local Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Local Port:"
+    },
+    {
+      "automation_id": "m_lblLocalPort",
+      "control_type": "Text",
+      "name": "Local Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Local Port:"
+    },
+    {
+      "automation_id": "m_lblLog",
+      "control_type": "Text",
+      "name": "Logo:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Logo:"
+    },
+    {
+      "automation_id": "m_lblLogin",
+      "control_type": "Text",
+      "name": "Username:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Username:"
+    },
+    {
+      "automation_id": "m_lblLogonrType",
+      "control_type": "Text",
+      "name": "Service logon type:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Service logon type:"
+    },
+    {
+      "automation_id": "m_lblMaxCallTime",
+      "control_type": "Text",
+      "name": "Max Call Duration:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Max Call Duration:"
+    },
+    {
+      "automation_id": "m_lblMaxCallTimeUnit",
+      "control_type": "Text",
+      "name": "minutes",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > minutes"
+    },
+    {
+      "automation_id": "m_lblMaxInitTime",
+      "control_type": "Text",
+      "name": "SIP Ringing Timeout:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > SIP Ringing Timeout:"
+    },
+    {
+      "automation_id": "m_lblMaxInitTimeUnit",
+      "control_type": "Text",
+      "name": "seconds",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > seconds"
+    },
+    {
+      "automation_id": "m_lblMobileStations",
+      "control_type": "Text",
+      "name": "Registered PoC Gateways",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Registered PoC Gateways"
+    },
+    {
+      "automation_id": "m_lblMototrboStations",
+      "control_type": "Text",
+      "name": "Registered Radio Systems",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Registered Radio Systems"
+    },
+    {
+      "automation_id": "m_lblName",
+      "control_type": "Text",
+      "name": "Name:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Name:"
+    },
+    {
+      "automation_id": "m_lblNetworkId",
+      "control_type": "Text",
+      "name": "CAI Network:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > CAI Network:"
+    },
+    {
+      "automation_id": "m_lblNovoxEventPort",
+      "control_type": "Text",
+      "name": "Events port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Events port:"
+    },
+    {
+      "automation_id": "m_lblNovoxRequestPort",
+      "control_type": "Text",
+      "name": "Requests port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Requests port:"
+    },
+    {
+      "automation_id": "m_lblPass",
+      "control_type": "Text",
+      "name": "Password:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Pane > Password:"
+    },
+    {
+      "automation_id": "m_lblPassword",
+      "control_type": "Text",
+      "name": "Password:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Password:"
+    },
+    {
+      "automation_id": "m_lblPhoneLocationType",
+      "control_type": "Text",
+      "name": "Phone Owner Address:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Phone Owner Address:"
+    },
+    {
+      "automation_id": "m_lblPortServer",
+      "control_type": "Text",
+      "name": "Command port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Command port:"
+    },
+    {
+      "automation_id": "m_lblPortVoice",
+      "control_type": "Text",
+      "name": "First VoIP port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > First VoIP port:"
+    },
+    {
+      "automation_id": "m_lblPublicAddress",
+      "control_type": "Text",
+      "name": "Public Address/Domain:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Public Address/Domain:"
+    },
+    {
+      "automation_id": "m_lblPublicAddress",
+      "control_type": "Text",
+      "name": "Public Address:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Public Address:"
+    },
+    {
+      "automation_id": "m_lblRtspPort",
+      "control_type": "Text",
+      "name": "RTSP port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > RTSP port:"
+    },
+    {
+      "automation_id": "m_lblScheduledReportSavePath",
+      "control_type": "Text",
+      "name": "Folder:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Folder:"
+    },
+    {
+      "automation_id": "m_lblScheduledReportSaveType",
+      "control_type": "Text",
+      "name": "Format:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Format:"
+    },
+    {
+      "automation_id": "m_lblSendGpsAlarmByTime",
+      "control_type": "Text",
+      "name": "minutes",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > minutes"
+    },
+    {
+      "automation_id": "m_lblServer",
+      "control_type": "Text",
+      "name": "SQL Server:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > SQL Server:"
+    },
+    {
+      "automation_id": "m_lblServerMode",
+      "control_type": "Text",
+      "name": "Server mode:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Server mode:"
+    },
+    {
+      "automation_id": "m_lblSiteName",
+      "control_type": "Text",
+      "name": "System Identifier:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > System Identifier:"
+    },
+    {
+      "automation_id": "m_lblSpriteListenPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblStartPort",
+      "control_type": "Text",
+      "name": "First VoIP port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > First VoIP port:"
+    },
+    {
+      "automation_id": "m_lblState",
+      "control_type": "Text",
+      "name": "Status:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Status:"
+    },
+    {
+      "automation_id": "m_lblStoreAudioCodec",
+      "control_type": "Text",
+      "name": "Audio codec:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Audio codec:"
+    },
+    {
+      "automation_id": "m_lblStoreAudioFile",
+      "control_type": "Text",
+      "name": "Voice recording format:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Voice recording format:"
+    },
+    {
+      "automation_id": "m_lblStoreVideoFile",
+      "control_type": "Text",
+      "name": "Video recording:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Video recording:"
+    },
+    {
+      "automation_id": "m_lblSummary",
+      "control_type": "Text",
+      "name": "<b>License is valid</b>\r\nLicense ID: AAERBO\r\nHardware ID: 272A-8986-C8B2-F8C7-524F\r\nLicense code: G02 A100604\r\nLicense generation date: 18 February 2026\r\nTRBOnet Support is active up to: 29 October 2030\r\nProduct: TRBOnet_Enterprise\r\nLicensed to: Neocom Software Corporation\r\nActive instance: [Default]\r\nLicensed instance: [Default]\r\n\r\n<b>Demo License</b>\r\n<font color='#008000'>Expiry date: 18 August 2026</font>\r\n\r\n<b>Server limitations</b>\r\nServer hardware keys: Any\r\n<font color='#008000'>Remote Agent connections: 0</font>\r\n<font color='#008000'>System types:</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Conventional: 3</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Capacity Plus: 3</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Linked Capacity Plus: 3</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Capacity MAX: 3</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Wave: 3</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Tetra: 3</font>\r\n\r\n<b>Agent limitations</b>\r\nAgent hardware keys: Any\r\n<font color='#008000'>Number of master radios or master repeaters: 5</font>\r\nMaster radios / master repeaters serial numbers: Unlimited\r\n<font color='#008000'>Total number of peers in IP Site Connect or Capacity Plus systems: 10</font>\r\nSerial numbers of peers used in IP Site Connect or Capacity Plus systems: Unlimited\r\n\r\n<b>Limitation for Client connections</b>\r\n<font color='#008000'>Dispatch connections: 10</font>\r\n<font color='#008000'>Number of Dispatch accounts: 10</font>\r\n\r\n<b>Subscriber radios limitations</b>\r\n<font color='#008000'>Number of radios: 20</font>\r\n\r\n<b>List of available features</b>\r\nVoice Dispatch\r\nVoice Recording\r\nNumber of concurrent video calls: 5\r\nEnable video call recording\r\nSystem Bridge\r\nPhone Interconnect / Telephony\r\nGPS Positioning\r\nJob Ticketing\r\nRoute Management / Guard Tour\r\nReports and Statistics\r\nNAI Data support (MNIS)\r\nTRBOnet Developer API\r\nIndoor Positioning\r\nWeb Console\r\nWeb Console - number of simultaneous connections: 5\r\nExternal Data Sources (RS232, TCP/IP, UDP/IP)\r\nOption Boards Solutions support\r\nAlarm  Event Management\r\nAllow encrypting network data\r\nMobile Client Module: 5\r\nTRBO.SOS Client Module: 5\r\nLicense: Normal\r\nAutomatic Tasks\r\nSupport\r\nServer Type: Default\r\nWeb Map Services\r\nIP Cameras: 4\r\nTeltonika Module: 2\r\n",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > m_pnlScroll > <b>License is valid</b>\r\nLicense ID: AAERBO\r\nHardware ID: 272A-8986-C8B2-F8C7-524F\r\nLicense code: G02 A100604\r\nLicense generation date: 18 February 2026\r\nTRBOnet Support is active up to: 29 October 2030\r\nProduct: TRBOnet_Enterprise\r\nLicensed to: Neocom Software Corporation\r\nActive instance: [Default]\r\nLicensed instance: [Default]\r\n\r\n<b>Demo License</b>\r\n<font color='#008000'>Expiry date: 18 August 2026</font>\r\n\r\n<b>Server limitations</b>\r\nServer hardware keys: Any\r\n<font color='#008000'>Remote Agent connections: 0</font>\r\n<font color='#008000'>System types:</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Conventional: 3</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Capacity Plus: 3</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Linked Capacity Plus: 3</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Capacity MAX: 3</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Wave: 3</font>\r\n<nbsp><nbsp><nbsp><nbsp><font color='#008000'>Tetra: 3</font>\r\n\r\n<b>Agent limitations</b>\r\nAgent hardware keys: Any\r\n<font color='#008000'>Number of master radios or master repeaters: 5</font>\r\nMaster radios / master repeaters serial numbers: Unlimited\r\n<font color='#008000'>Total number of peers in IP Site Connect or Capacity Plus systems: 10</font>\r\nSerial numbers of peers used in IP Site Connect or Capacity Plus systems: Unlimited\r\n\r\n<b>Limitation for Client connections</b>\r\n<font color='#008000'>Dispatch connections: 10</font>\r\n<font color='#008000'>Number of Dispatch accounts: 10</font>\r\n\r\n<b>Subscriber radios limitations</b>\r\n<font color='#008000'>Number of radios: 20</font>\r\n\r\n<b>List of available features</b>\r\nVoice Dispatch\r\nVoice Recording\r\nNumber of concurrent video calls: 5\r\nEnable video call recording\r\nSystem Bridge\r\nPhone Interconnect / Telephony\r\nGPS Positioning\r\nJob Ticketing\r\nRoute Management / Guard Tour\r\nReports and Statistics\r\nNAI Data support (MNIS)\r\nTRBOnet Developer API\r\nIndoor Positioning\r\nWeb Console\r\nWeb Console - number of simultaneous connections: 5\r\nExternal Data Sources (RS232, TCP/IP, UDP/IP)\r\nOption Boards Solutions support\r\nAlarm  Event Management\r\nAllow encrypting network data\r\nMobile Client Module: 5\r\nTRBO.SOS Client Module: 5\r\nLicense: Normal\r\nAutomatic Tasks\r\nSupport\r\nServer Type: Default\r\nWeb Map Services\r\nIP Cameras: 4\r\nTeltonika Module: 2\r\n"
+    },
+    {
+      "automation_id": "m_lblSwiftV1Port",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblSwiftV2Port",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblTlmPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblTmsDmrPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblTmsPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lblUninstalledTitle",
+      "control_type": "Text",
+      "name": "The TRBOnet Server service is not installed.  It is recommended to run TRBOnet Server as a Windows service: it will start automatically after a reboot and run even when no user is logged on. Click the Install Service button below to install the TRBOnet Server service.",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > The TRBOnet Server service is not installed.  It is recommended to run TRBOnet Server as a Windows service: it will start automatically after a reboot and run even when no user is logged on. Click the Install Service button below to install the TRBOnet Server service."
+    },
+    {
+      "automation_id": "m_lblUser",
+      "control_type": "Text",
+      "name": "User name:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Pane > User name:"
+    },
+    {
+      "automation_id": "m_lblVideo1",
+      "control_type": "Text",
+      "name": "Video recordings",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Audio and video recordings > Video recordings"
+    },
+    {
+      "automation_id": "m_lblVoiceBroadcastPort",
+      "control_type": "Text",
+      "name": "Broadcast port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Broadcast port:"
+    },
+    {
+      "automation_id": "m_lblVoiceInterface",
+      "control_type": "Text",
+      "name": "Network interface:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Network interface:"
+    },
+    {
+      "automation_id": "m_lblZebraBluetoothPort",
+      "control_type": "Text",
+      "name": "Port:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Port:"
+    },
+    {
+      "automation_id": "m_lnkAddressFormat",
+      "control_type": "Text",
+      "name": "Configure",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Configure"
+    },
+    {
+      "automation_id": "m_lnkApply",
+      "control_type": "Text",
+      "name": "Save changes and restart service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Save changes and restart service"
+    },
+    {
+      "automation_id": "m_lnkConfigPasswordClear",
+      "control_type": "Text",
+      "name": "Turn off password",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Save changes and restart service > Pane > Turn off password"
+    },
+    {
+      "automation_id": "m_lnkConfigPasswortSet",
+      "control_type": "Text",
+      "name": "Set password",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Save changes and restart service > Pane > Set password"
+    },
+    {
+      "automation_id": "m_lnkCopyToBuffer",
+      "control_type": "Text",
+      "name": "Copy to Clipboard",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > m_pnlButtons > Copy to Clipboard"
+    },
+    {
+      "automation_id": "m_lnkEditProxy",
+      "control_type": "Text",
+      "name": "Configure",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Configure"
+    },
+    {
+      "automation_id": "m_lnkExportConfig",
+      "control_type": "Text",
+      "name": "Export Configuration",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Export Configuration"
+    },
+    {
+      "automation_id": "m_lnkImportConfig",
+      "control_type": "Text",
+      "name": "Import Configuration",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Import Configuration"
+    },
+    {
+      "automation_id": "m_lnkLoadNew",
+      "control_type": "Text",
+      "name": "License Manager",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > m_pnlButtons > License Manager"
+    },
+    {
+      "automation_id": "m_lnkSendEmail",
+      "control_type": "Text",
+      "name": "Send Email",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > m_pnlButtons > Send Email"
+    },
+    {
+      "automation_id": "m_lnkShowUsedPorts",
+      "control_type": "Text",
+      "name": "Port usage",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Port usage"
+    },
+    {
+      "automation_id": "m_lnkViewLog1",
+      "control_type": "Text",
+      "name": "View Log Entries",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > View Log Entries"
+    },
+    {
+      "automation_id": "m_lnkZebraCommand",
+      "control_type": "Text",
+      "name": "Configure",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Configure"
+    },
+    {
+      "automation_id": "m_logoSelector",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_picBox",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlActions",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlButtons",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlButtons",
+      "control_type": "Pane",
+      "name": "m_pnlButtons",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > m_pnlButtons"
+    },
+    {
+      "automation_id": "m_pnlButtons",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlButtons",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlConfigPassword",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Save changes and restart service > Pane"
+    },
+    {
+      "automation_id": "m_pnlData",
+      "control_type": "Pane",
+      "name": "m_pnlData",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData"
+    },
+    {
+      "automation_id": "m_pnlDescription",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlExtData",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlExtTms",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlForwardData",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlFriendly",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlG4S",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlGpsAdvanced",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlGpsAlarms",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlInstalled",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlLogin",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlMain",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlMain",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlMain",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlMobile",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlMototrbo",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlNotInstalled",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlNovox",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlParam",
+      "control_type": "Pane",
+      "name": "Save changes and restart service",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Save changes and restart service"
+    },
+    {
+      "automation_id": "m_pnlParameters",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlParent",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane"
+    },
+    {
+      "automation_id": "m_pnlScroll",
+      "control_type": "Pane",
+      "name": "m_pnlScroll",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > m_pnlScroll"
+    },
+    {
+      "automation_id": "m_pnlSprite",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlSwiftV1",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlSwiftV2",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlTree",
+      "control_type": "Pane",
+      "name": "m_pnlTree",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlTree"
+    },
+    {
+      "automation_id": "m_pnlUser",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlVideoOptions",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_pnlZebraBluetooth",
+      "control_type": "Pane",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane"
+    },
+    {
+      "automation_id": "m_rbSendGpsAlarmByTime",
+      "control_type": "RadioButton",
+      "name": "For the last:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > For the last:"
+    },
+    {
+      "automation_id": "m_rbSendGpsAlarmQuantity",
+      "control_type": "RadioButton",
+      "name": "GPS points:",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlData > Pane > Pane > Pane > GPS points:"
+    },
+    {
+      "automation_id": "m_tree",
+      "control_type": "Tree",
+      "name": "",
+      "path": " > TRBOnet Enterprise 6.5 / Server > Pane > Pane > Pane > m_pnlTree > Tree"
+    }
+  ]
+}

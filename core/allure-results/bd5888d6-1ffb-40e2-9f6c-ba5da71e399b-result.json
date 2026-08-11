@@ -1,0 +1,36 @@
+{
+  "uuid": "bd5888d6-1ffb-40e2-9f6c-ba5da71e399b",
+  "name": "DISPATCH_TEST",
+  "status": "passed",
+  "statusDetails": {
+    "message": "✅ Тест пройден за 61.3 сек"
+  },
+  "stage": "finished",
+  "start": 1784538836862,
+  "stop": 1784538898142,
+  "duration": 61279,
+  "historyId": "bd5888d6-1ffb-40e2-9f6c-ba5da71e399b",
+  "fullName": "DISPATCH_TEST",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "Оркестратор TRBOnet"
+    },
+    {
+      "name": "testClass",
+      "value": "Orchestrator"
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Actual Console",
+      "source": "bd5888d6-1ffb-40e2-9f6c-ba5da71e399b-Actual_Console.png",
+      "type": "image/png"
+    },
+    {
+      "name": "Expected Console",
+      "source": "bd5888d6-1ffb-40e2-9f6c-ba5da71e399b-Expected_Console.png",
+      "type": "image/png"
+    }
+  ]
+}

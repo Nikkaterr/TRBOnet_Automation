@@ -1,0 +1,7 @@
+
+                Путь к скрипту: C:\Automation\core\download_build.py
+                Существует: True
+                Исходные аргументы: ['6.5.0.9142']
+                Экранированные аргументы: ['6.5.0.9142']
+                Полная команда: ['C:\\Automation\\.venv\\Scripts\\python.exe', 'C:\\Automation\\core\\download_build.py', '6.5.0.9142']
+                

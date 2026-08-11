@@ -1,0 +1,36 @@
+{
+  "uuid": "e66443ff-8262-490c-a214-221dec0744a8",
+  "name": "ONE_TEST",
+  "status": "passed",
+  "statusDetails": {
+    "message": "✅ Тест пройден за 43.9 сек"
+  },
+  "stage": "finished",
+  "start": 1784538901152,
+  "stop": 1784538945050,
+  "duration": 43897,
+  "historyId": "e66443ff-8262-490c-a214-221dec0744a8",
+  "fullName": "ONE_TEST",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "Оркестратор TRBOnet"
+    },
+    {
+      "name": "testClass",
+      "value": "Orchestrator"
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Actual One",
+      "source": "e66443ff-8262-490c-a214-221dec0744a8-Actual_One.png",
+      "type": "image/png"
+    },
+    {
+      "name": "Expected One",
+      "source": "e66443ff-8262-490c-a214-221dec0744a8-Expected_One.png",
+      "type": "image/png"
+    }
+  ]
+}

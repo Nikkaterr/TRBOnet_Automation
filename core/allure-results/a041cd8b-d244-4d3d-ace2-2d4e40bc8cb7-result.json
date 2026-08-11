@@ -1,0 +1,24 @@
+{
+  "uuid": "a041cd8b-d244-4d3d-ace2-2d4e40bc8cb7",
+  "name": "ВСЕ ШАГИ ОРКЕСТРАТОРА",
+  "status": "passed",
+  "statusDetails": {
+    "message": "✅ Тест пройден за 353.7 сек"
+  },
+  "stage": "finished",
+  "start": 1784538594395,
+  "stop": 1784538948075,
+  "duration": 353680,
+  "historyId": "a041cd8b-d244-4d3d-ace2-2d4e40bc8cb7",
+  "fullName": "ВСЕ ШАГИ ОРКЕСТРАТОРА",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "Оркестратор TRBOnet"
+    },
+    {
+      "name": "testClass",
+      "value": "Orchestrator"
+    }
+  ]
+}

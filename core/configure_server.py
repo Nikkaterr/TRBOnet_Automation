@@ -409,7 +409,7 @@ def main():
         log_message("\n📌 ШАГ 3: Установка имени базы данных", "INFO")
         log_message("-" * 40, "INFO")
 
-        if not set_combo_value_by_key(window, "combo_database", db_name):
+        if not set_combo_value_by_key(window, "dd_list_database", db_name):
             log_message("❌ Не удалось установить имя БД", "ERROR")
             return
 

@@ -1,0 +1,12 @@
+
+✅ Подготовка окружения завершена успешно!
+
+Выполненные шаги:
+  - uninstall: success
+  - download: success
+  - install: success
+
+Версия: 6.5.0.9142
+База данных: TRBOnet_63_autotest
+SQL Server: S0343\SQLEXPRESS
+            
