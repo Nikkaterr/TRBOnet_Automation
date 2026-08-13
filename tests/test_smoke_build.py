@@ -29,7 +29,7 @@ from tests.utils.test_helpers import test_helper
 @pytest.mark.smoke
 @pytest.mark.installation
 @pytest.mark.timeout(600)
-@pytest.mark.dependency(name="configure_server")
+
 class TestConfigureServer:
     """
     Smoke-тест настройки конфигуратора сервера.
@@ -109,6 +109,7 @@ class TestConfigureServer:
     # ========================================================================
 
     @allure.title("Smoke: Настройка конфигуратора сервера")
+    @pytest.mark.dependency(name="configure_server")
     def test_configure_server(
             self,
             migration_prepared: Dict[str, Any],
@@ -234,6 +235,7 @@ class TestDispatchConsoleSmoke:
     # ========================================================================
 
     @allure.title("Smoke: Тестирование Dispatch Console")
+    @pytest.mark.dependency(depends=["configure_server"])
     def test_dispatch_console_smoke(
             self,
             migration_prepared: Dict[str, Any],
@@ -290,7 +292,6 @@ class TestDispatchConsoleSmoke:
 @allure.severity(allure.severity_level.NORMAL)
 @pytest.mark.smoke
 @pytest.mark.timeout(300)
-@pytest.mark.dependency(depends=["configure_server"])
 class TestTRBOnetOneSmoke:
     """
     Smoke-тест TRBOnet One приложения.
@@ -402,6 +403,7 @@ class TestTRBOnetOneSmoke:
     # ========================================================================
 
     @allure.title("Smoke: Тестирование TRBOnet One")
+    @pytest.mark.dependency(depends=["configure_server"])
     def test_trbonet_one_smoke(
             self,
             migration_prepared: Dict[str, Any],

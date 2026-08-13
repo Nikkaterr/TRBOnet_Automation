@@ -1,0 +1,7 @@
+
+                Путь к скрипту: C:\Automation\core_desktop\install.py
+                Существует: True
+                Исходные аргументы: ['6.5.0.9145']
+                Экранированные аргументы: ['6.5.0.9145']
+                Полная команда: ['C:\\Automation\\.venv\\Scripts\\python.exe', 'C:\\Automation\\core_desktop\\install.py', '6.5.0.9145']
+                

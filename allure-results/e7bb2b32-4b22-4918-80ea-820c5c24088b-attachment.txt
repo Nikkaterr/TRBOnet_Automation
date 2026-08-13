@@ -1,0 +1,6 @@
+
+                Статус: ПАДЕНИЕ
+                Версия: 6.5.0.9145
+                База данных: TRBOnet_Enterprise
+                SQL Server: localhost
+                

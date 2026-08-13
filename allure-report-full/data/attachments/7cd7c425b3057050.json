@@ -1,0 +1,15 @@
+{
+  "build_version": "6.5.0.9145",
+  "db_name": "TRBOnet_63_autotest",
+  "zip_path": "\\\\nsshare.trbonet.com\\Share\\Tester_common\\bd_for_test\\!bd_migration\\bd_6.3.0\\TRBOnet_6.3.0.bak.zip",
+  "sql_server": "S0343\\SQLEXPRESS",
+  "sql_user": "sa",
+  "sql_password": "trbonet.com",
+  "data_path": "C:\\Database_Backups",
+  "auth_type": "sql",
+  "uninstall_mode": "auto",
+  "db_restore_timeout": 3600,
+  "db_upgrade_timeout": 1800,
+  "old_version": "6.5.0.9138",
+  "skip_env_setup": false
+}

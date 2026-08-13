@@ -12,8 +12,8 @@ from typing import Optional, Any, List, Tuple
 from PIL import Image, ImageDraw, ImageChops, ImageGrab
 import pyautogui
 from pywinauto import Application, Desktop
-from core.config import TIMEOUT, SMALL_DELAY, LARGE_DELAY
-from core.config_auto_ids import AUTO_IDS
+from core_desktop.config import TIMEOUT, SMALL_DELAY, LARGE_DELAY
+from core_desktop.config_auto_ids import AUTO_IDS
 
 
 class AppsHelper:
@@ -1675,9 +1675,9 @@ class AppsHelper:
 
         # Проверяем, что импортирован словарь COLORS
         try:
-            from core.config_auto_ids import COLORS
+            from core_desktop.config_auto_ids import COLORS
         except ImportError:
-            self.log_message("❌ Словарь COLORS не найден в core.config_auto_ids", "ERROR")
+            self.log_message("❌ Словарь COLORS не найден в core_desktop.config_auto_ids", "ERROR")
             return None
 
         # Получаем AutomationId по ключу
@@ -1792,7 +1792,7 @@ class AppsHelper:
         self.log_message(f"Получение цвета по координатам: ({x}, {y})", "INFO")
 
         try:
-            from core.config_auto_ids import COLORS
+            from core_desktop.config_auto_ids import COLORS
             import pyautogui
 
             # Получаем цвет пикселя
@@ -1854,7 +1854,7 @@ class AppsHelper:
         self.log_message(f"Получение цвета из центра элемента по ключу: '{key}'", "INFO")
 
         try:
-            from core.config_auto_ids import COLORS
+            from core_desktop.config_auto_ids import COLORS
 
             auto_id = self.get_auto_id(key)
             if not auto_id:
@@ -1904,7 +1904,7 @@ class AppsHelper:
         self.log_message(f"Получение цвета элемента по ключу: '{key}' с отступом {x_percent}% x {y_percent}%", "INFO")
 
         try:
-            from core.config_auto_ids import COLORS
+            from core_desktop.config_auto_ids import COLORS
 
             auto_id = self.get_auto_id(key)
             if not auto_id:
@@ -1962,9 +1962,9 @@ class AppsHelper:
 
         # Проверяем, что импортирован словарь COLORS
         try:
-            from core.config_auto_ids import COLORS
+            from core_desktop.config_auto_ids import COLORS
         except ImportError:
-            self.log_message("❌ Словарь COLORS не найден в core.config_auto_ids", "ERROR")
+            self.log_message("❌ Словарь COLORS не найден в core_desktop.config_auto_ids", "ERROR")
             return None
 
         if not element:

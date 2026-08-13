@@ -1,0 +1,7 @@
+
+                Путь к скрипту: C:\Automation\core_desktop\deinstall.py
+                Существует: True
+                Исходные аргументы: []
+                Экранированные аргументы: []
+                Полная команда: ['C:\\Automation\\.venv\\Scripts\\python.exe', 'C:\\Automation\\core_desktop\\deinstall.py']
+                

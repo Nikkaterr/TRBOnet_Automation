@@ -1,0 +1,6 @@
+
+                Статус: УСПЕШНО
+                Версия: 6.5.0.9145
+                База данных: TRBOnet_63_autotest
+                SQL Server: S0343\SQLEXPRESS
+                

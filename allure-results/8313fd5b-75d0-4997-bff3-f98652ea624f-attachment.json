@@ -1,0 +1,12 @@
+{
+  "initial_color": "BLUE",
+  "current_color": "GREEN",
+  "changed": true,
+  "elapsed": 0.4826345443725586,
+  "colors_history": [
+    "BLUE",
+    "BLUE",
+    "GREEN"
+  ],
+  "success": true
+}

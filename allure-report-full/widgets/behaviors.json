@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"3a5a38712e5764d3b92ed70535b2ce98","name":"Smoke-тестирование сборки","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}},{"uid":"88db4a8a292509858e0651169fdf02c3","name":"Подготовка окружения","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}

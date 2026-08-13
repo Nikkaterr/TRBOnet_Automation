@@ -11,8 +11,8 @@ from typing import Optional, List, Tuple, Dict, Any
 from pywinauto.application import Application
 
 from apps.apps_helpers import AppsHelper
-from core.config import TIMEOUT, SMALL_DELAY, LARGE_DELAY, ONE_EXE_PATH, WINDOW_CONNECT_MANAGER_ONE_PATTERN, WINDOW_ONE_PATTERN
-from core.config_auto_ids import AUTO_IDS, DIALOG_TEXTS, PROCESS_NAMES
+from core_desktop.config import TIMEOUT, SMALL_DELAY, LARGE_DELAY, ONE_EXE_PATH, WINDOW_CONNECT_MANAGER_ONE_PATTERN, WINDOW_ONE_PATTERN
+from core_desktop.config_auto_ids import AUTO_IDS, DIALOG_TEXTS, PROCESS_NAMES
 
 
 

@@ -1,0 +1,15 @@
+{
+  "build_version": "6.5.0.9145",
+  "db_name": "TRBOnet_Enterprise",
+  "zip_path": "\\\\server\\backups\\TRBOnet_Enterprise_6.5.0.9140.zip",
+  "sql_server": "localhost",
+  "sql_user": "sa",
+  "sql_password": "trbonet.com",
+  "data_path": "C:\\Database_Backups",
+  "auth_type": "sql",
+  "uninstall_mode": "auto",
+  "db_restore_timeout": 3600,
+  "db_upgrade_timeout": 1800,
+  "old_version": "6.5.0.9138",
+  "skip_env_setup": false
+}

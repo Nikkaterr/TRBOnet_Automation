@@ -1,22 +1,22 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
 "
+Smoke-тест настройки конфигуратора сервера.
+
+Зависимости:
+- Подготовленное окружение (фикстура migration_prepared)
+","23389","Smoke: Настройка сервера 6.5.0.9143","tests","2026-08-11","passed","2026-08-11","TestConfigureServer","Подготовка окружения","",""
+"
 Smoke-тест TRBOnet One приложения.
 
 Зависимости:
 - Подготовленное окружение (фикстура migration_prepared)
 - Успешный тест configure_server (pytest-dependency)
 - НЕ зависит от теста Dispatch Console
-","28501","Smoke: TRBOnet One 6.5.0.9142","tests","2026-08-10","passed","2026-08-10","TestTRBOnetOneSmoke","test_smoke_build","",""
+","29185","Smoke: TRBOnet One 6.5.0.9143","tests","2026-08-11","passed","2026-08-11","TestTRBOnetOneSmoke","test_smoke_build","",""
 "
 Smoke-тест Dispatch Console приложения.
 
 Зависимости:
 - Подготовленное окружение (фикстура migration_prepared)
 - Успешный тест configure_server (pytest-dependency)
-","61548","Smoke: Dispatch Console 6.5.0.9142","tests","2026-08-10","passed","2026-08-10","TestDispatchConsoleSmoke","test_smoke_build","",""
-"
-Smoke-тест настройки конфигуратора сервера.
-
-Зависимости:
-- Подготовленное окружение (фикстура migration_prepared)
-","23367","Smoke: Настройка сервера 6.5.0.9142","tests","2026-08-10","passed","2026-08-10","TestConfigureServer","Подготовка окружения","",""
+","61491","Smoke: Dispatch Console 6.5.0.9143","tests","2026-08-11","passed","2026-08-11","TestDispatchConsoleSmoke","test_smoke_build","",""

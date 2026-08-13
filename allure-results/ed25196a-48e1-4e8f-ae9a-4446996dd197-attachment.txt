@@ -1,0 +1,35 @@
+[2026-08-13 05:46:59] [ERROR] ❌ Приложение не запущено
+[2026-08-13 05:46:59] [INFO] Инициализация ServerConfigurator
+[2026-08-13 05:46:59] [DEBUG]   Путь к приложению: C:\Program Files\Neocom Software\TRBOnet Enterprise\Server\TRBOnet.Server.exe
+[2026-08-13 05:46:59] [DEBUG]   Заголовок окна: TRBOnet Enterprise 6.5 / Server
+[2026-08-13 05:46:59] [DEBUG]   Таймаут: 30 сек.
+[2026-08-13 05:46:59] [INFO] Открытие приложения...
+[2026-08-13 05:46:59] [INFO] Запуск приложения: C:\Program Files\Neocom Software\TRBOnet Enterprise\Server\TRBOnet.Server.exe
+[2026-08-13 05:47:04] [SUCCESS] ✅ Приложение запущено
+[2026-08-13 05:47:04] [INFO] Поиск окна: 'TRBOnet Enterprise 6.5 / Server'...
+[2026-08-13 05:47:04] [SUCCESS] ✅ Окно найдено: 'TRBOnet Enterprise 6.5 / Server'
+[2026-08-13 05:47:04] [INFO] Приложение успешно открыто, окно 'TRBOnet Enterprise 6.5 / Server' найдено
+[2026-08-13 05:47:04] [INFO] Переход на вкладку 'Database'...
+[2026-08-13 05:47:04] [SUCCESS]   ✅ Найдено дерево
+[2026-08-13 05:47:05] [SUCCESS]   ✅ Найден элемент 'Database'
+[2026-08-13 05:47:05] [INFO]   Проверка и разворачивание родителей...
+[2026-08-13 05:47:07] [SUCCESS]   ✅ Клик по 'Database' выполнен
+[2026-08-13 05:47:07] [INFO] Установка значения в выпадающем списке...
+[2026-08-13 05:47:07] [INFO]   Поле: 'dd_list_database'
+[2026-08-13 05:47:07] [INFO]   Значение: 'TRBOnet_6.5.0.9145_autotest'
+[2026-08-13 05:47:07] [INFO] Поиск ComboBox по ключу: 'dd_list_database'
+[2026-08-13 05:47:07] [INFO]   Устанавливаем значение: 'TRBOnet_6.5.0.9145_autotest'
+[2026-08-13 05:47:07] [INFO]   Поиск элемента по AutomationId: 'm_boxDatabase'
+[2026-08-13 05:47:08] [SUCCESS]     ✅ Найден: 'TRBOnet_6.5.0.9145_autotest'
+[2026-08-13 05:47:09] [SUCCESS]   ✅ Значение 'TRBOnet_6.5.0.9145_autotest' установлено (через дочерний Edit)
+[2026-08-13 05:47:09] [SUCCESS] ✅ Значение 'TRBOnet_6.5.0.9145_autotest' успешно установлено в поле 'dd_list_database'
+[2026-08-13 05:47:09] [INFO] Клик по элементу с ключом: 'btn_create_database'
+[2026-08-13 05:47:09] [INFO] Клик по ключу: 'btn_create_database'
+[2026-08-13 05:47:09] [INFO]   Поиск элемента по AutomationId: 'm_btnCreate'
+[2026-08-13 05:47:09] [SUCCESS]     ✅ Найден: 'Create Database'
+[2026-08-13 05:47:10] [SUCCESS]   ✅ Клик выполнен
+[2026-08-13 05:47:10] [SUCCESS] ✅ Клик по элементу 'btn_create_database' выполнен успешно
+[2026-08-13 05:47:10] [INFO] Ожидание диалогового окна с текстом: 'creation_dialog'...
+[2026-08-13 05:47:10] [INFO]   Ожидание текста в диалоге: 'has been created'...
+[2026-08-13 05:47:41] [ERROR]   ❌ Текст не найден: 'has been created'
+[2026-08-13 05:47:41] [ERROR] ❌ Диалоговое окно с текстом 'creation_dialog' не найдено

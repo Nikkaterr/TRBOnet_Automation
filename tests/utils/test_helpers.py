@@ -33,7 +33,7 @@ class TestHelper:
         # test_helpers.py находится в tests/utils/
         # Поднимаемся на два уровня вверх до корня проекта
         self.project_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-        self.core_dir = os.path.join(self.project_dir, "core")
+        self.core_dir = os.path.join(self.project_dir, "core_desktop")
         self.logs_dir = os.path.join(self.project_dir, "logs")
         self.screenshots_dir = os.path.join(self.project_dir, "screenshots")
 

@@ -136,23 +136,19 @@ def pytest_addoption(parser):
 @pytest.fixture(scope="session")
 def test_config(request) -> Dict[str, Any]:
     """Фикстура с конфигурацией из командной строки."""
-    config = {
-        "build_version": request.config.getoption("--build-version"),
-        "db_name": request.config.getoption("--db-name"),
-        "zip_path": request.config.getoption("--zip-path"),
-        "sql_server": request.config.getoption("--sql-server"),
-        "sql_user": request.config.getoption("--sql-user"),
-        "sql_password": request.config.getoption("--sql-password"),
-        "data_path": request.config.getoption("--data-path"),
-        "auth_type": request.config.getoption("--auth-type"),
-        "uninstall_mode": request.config.getoption("--uninstall-mode"),
-        "db_restore_timeout": request.config.getoption("--db-restore-timeout"),
-        "db_upgrade_timeout": request.config.getoption("--db-upgrade-timeout"),
-    }
-
-    # Добавляем старую версию из новой опции
-    config["old_version"] = request.config.getoption("--old-version")
-    config["skip_env_setup"] = request.config.getoption("--skip-env-setup")
+    config = {"build_version": request.config.getoption("--build-version"),
+              "db_name": request.config.getoption("--db-name"), "zip_path": request.config.getoption("--zip-path"),
+              "sql_server": request.config.getoption("--sql-server"),
+              "sql_user": request.config.getoption("--sql-user"),
+              "sql_password": request.config.getoption("--sql-password"),
+              "data_path": request.config.getoption("--data-path"),
+              "auth_type": request.config.getoption("--auth-type"),
+              "uninstall_mode": request.config.getoption("--uninstall-mode"),
+              "db_restore_timeout": request.config.getoption("--db-restore-timeout"),
+              "db_upgrade_timeout": request.config.getoption("--db-upgrade-timeout"),
+              "old_version": request.config.getoption("--old-version"),
+              "skip_env_setup": request.config.getoption("--skip-env-setup")
+              }
 
     return config
 

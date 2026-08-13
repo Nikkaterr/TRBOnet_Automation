@@ -16,8 +16,8 @@ if current_dir not in sys.path:
     sys.path.insert(0, current_dir)
 
 from apps.apps_helpers import AppsHelper
-from core.config import SERVER_EXE_PATH, SERVER_WINDOW_TITLE, TIMEOUT, MEDIUM_DELAY
-from core.config_auto_ids import DIALOG_TEXTS
+from core_desktop.config import SERVER_EXE_PATH, SERVER_WINDOW_TITLE, TIMEOUT, MEDIUM_DELAY
+from core_desktop.config_auto_ids import DIALOG_TEXTS
 
 
 class ServerConfigurator:
@@ -37,11 +37,11 @@ class ServerConfigurator:
 
         Args:
             exe_path (str, optional): Путь к исполняемому файлу.
-                                      По умолчанию из core.config
+                                      По умолчанию из core_desktop.config
             window_title (str, optional): Заголовок окна приложения.
-                                          По умолчанию из core.config
+                                          По умолчанию из core_desktop.config
             timeout (int, optional): Таймаут ожидания в секундах.
-                                     По умолчанию из core.config
+                                     По умолчанию из core_desktop.config
         """
         self.exe_path = exe_path or SERVER_EXE_PATH
         self.window_title = window_title or SERVER_WINDOW_TITLE

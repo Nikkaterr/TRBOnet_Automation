@@ -6,7 +6,7 @@ import time
 import pytest
 import allure
 from typing import Dict, Any
-from core.config_auto_ids import DIALOG_TEXTS
+from core_desktop.config_auto_ids import DIALOG_TEXTS
 
 from tests.utils.test_helpers import test_helper
 

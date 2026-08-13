@@ -11,9 +11,9 @@ from typing import Optional, List, Tuple
 from pywinauto.application import Application
 
 from apps.apps_helpers import AppsHelper
-from core.config import TIMEOUT, SMALL_DELAY, LARGE_DELAY, CONSOLE_EXE_PATH, WINDOW_CONSOLE_PATTERN, \
+from core_desktop.config import TIMEOUT, SMALL_DELAY, LARGE_DELAY, CONSOLE_EXE_PATH, WINDOW_CONSOLE_PATTERN, \
     WINDOW_CONNECT_MANAGER_ENTERPRISE_PATTERN
-from core.config_auto_ids import PROCESS_NAMES
+from core_desktop.config_auto_ids import PROCESS_NAMES
 
 
 class ConnectionManager:
